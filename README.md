@@ -1,2 +1,2 @@
 # Eng.SoftII
-Trabalho de Engenharia de Software -- Thais Carolyne e Rubber Rodriguez
+Trabalho de Engenharia de Software -- Thais Carolyne, Ruber Rodriguez e Bruno Santos
